@@ -1,0 +1,11 @@
+We have:
+1.git log command
+2.Git show command
+3.The git blame command
+4.Git grep command
+5.GitHub
+    1.git log hows a list of all the commits made, sorted by date added. At the top we see the most recent commits.
+    2.Each commit has a unique set of characters - an identifier (also called a "hash"). Using a hash, you can view all the changes made within a single commit.
+    3.This command displays the file and next to each line shows who changed it and in what commit.
+    4.The command git grepsearches for a match with the specified string in all project files. This is a very convenient command for quick analysis from the terminal.
+    5.It allows you to view the history of commits, changes in a specific commit, and much more. 
