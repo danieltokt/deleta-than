@@ -1,0 +1,1 @@
+Git blame shows you who last modified each line of a file. It helps you identify who made specific changes and when.
